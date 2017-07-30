@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+
+  <style>
+     table{
+      width:600px;
+      border-collapse:collapse;
+    
+  }
+    th{
+      background-color:green;
+      color:#fff;
+  
+    }
+    td,th{
+       border:1px solid #ccc；
+       text-align:center;
+       padding:20px:
+   
+    }
+  </style>
+</head>
+<body>
+<table>
+  <thead>
+   <tr>
+     <th>球员</th>
+     <th>得分</th>
+     <th>篮板</th>
+     <th>上场时间</th>
+   </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>勒布朗-詹姆斯</td>
+      <td>10</td>
+      <td>4</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>斯蒂芬-库里</td>
+      <td>20</td>
+      <td>2</td>
+      <td>45</td>
+      
+    </tr>
+    <tr>
+      <td>科比-布莱恩特</td>
+      <td>15</td>
+      <td>5</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>凯文-杜兰特</td>
+      <td>7</td>
+      <td>6</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+  
+</body>
+</html>
